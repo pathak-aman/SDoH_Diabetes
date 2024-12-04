@@ -1,7 +1,10 @@
 ucimlrepo
 pandas
-numpy
+numpy<2.0.0
 scikit-learn
 matplotlib
 seaborn
 jinja2
+shap
+lightgbm
+catboost
